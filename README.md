@@ -18,11 +18,11 @@ Steps:
     You will need to enter your production WSkey for the WorldCat Search API https://platform.worldcat.org/api-explorer/apis/wcapi
 
  2) Change directory to the appropriate folder:
- Type in the command prompt
+    Type in the command prompt
  
-```shell
- cd thePathToTheScript
-```
+    ```shell
+    cd thePathToTheScript
+    ```
 
  3) Install all packages:
     In the command prompt type:

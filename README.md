@@ -17,13 +17,13 @@ Steps:
  1) Fill out the Configuration file:
     You will need to enter your production WSkey for the WorldCat Search API https://platform.worldcat.org/api-explorer/apis/wcapi
 
- 2) Change directory to the appropriate folder.
+ 2) Change directory to the appropriate folder (type in the command prompt: cd thePathToTheScript)
 
  3) Install all packages:
-    In the console type: pip install -r courseReserves_requirements.txt
+    In the command prompt type: pip install -r courseReserves_requirements.txt
 
  4) Run the program:
-    In the console type: python courseReserves_report_script.py
+    In the command prompt type: python courseReserves_report_script.py
     The script will ask you to choose a text file containing urls to each course.
     
     I used a browser add-on (Copy Links (Chrome), or Copy Selected Links (Firefox and Chrome)) to copy all selected hyperlink on the web page       to create the courseReserves_Url file.

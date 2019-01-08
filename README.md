@@ -17,11 +17,12 @@ Steps:
  1) Fill out the Configuration file:
     You will need to enter your production WSkey for the WorldCat Search API https://platform.worldcat.org/api-explorer/apis/wcapi
 
- 2) Change directory to the appropriate folder: (type in the command prompt: cd thePathToTheScript)
+ 2) Change directory to the appropriate folder:
  Type in the command prompt
- '''
+ 
+```shell
  cd thePathToTheScript
- '''
+```
 
  3) Install all packages:
     In the command prompt type: pip install -r courseReserves_requirements.txt

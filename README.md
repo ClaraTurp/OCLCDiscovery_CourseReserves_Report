@@ -27,6 +27,8 @@ Steps:
     The script will ask you to choose a text file containing urls to each course.
     
     I used a browser add-on (Copy Links (Chrome), or Copy Selected Links (Firefox and Chrome)) to copy all selected hyperlink on the web page       to create the courseReserves_Url file.
+    
+The report will be exported in a CSV file called: courseReserves_results.csv
 
 
   

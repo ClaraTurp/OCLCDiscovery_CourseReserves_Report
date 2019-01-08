@@ -25,10 +25,18 @@ Steps:
 ```
 
  3) Install all packages:
-    In the command prompt type: pip install -r courseReserves_requirements.txt
+    In the command prompt type:
+    
+    ```shell
+    pip install -r courseReserves_requirements.txt
+    ```
 
  4) Run the program:
-    In the command prompt type: python courseReserves_report_script.py
+    In the command prompt type: 
+    
+    ```shell
+    python courseReserves_report_script.py
+    ```
     The script will ask you to choose a text file containing urls to each course.
     
     I used a browser add-on (Copy Links (Chrome), or Copy Selected Links (Firefox and Chrome)) to copy all selected hyperlinks on the web page       to create the courseReserves_Url file.

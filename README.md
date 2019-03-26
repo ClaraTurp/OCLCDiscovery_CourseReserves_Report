@@ -5,7 +5,7 @@ For each title in course reserves this report contains:
     Course code and course name, instructor, department, number of course materials, 
     start date, end date, OCLC number, authors, title, and other bibliographic information (such as publisher, date).
     
-    There are errors in the citation information caused by diacritics that were replaced by special characters. I apologize for those       confusing titles and author names. (eg Scho&#x308;ne)
+   There are errors in the citation information caused by diacritics that were replaced by special characters. I apologize for those       confusing titles and author names. (eg Scho&#x308;ne)
   
  ### Using this script:
  
